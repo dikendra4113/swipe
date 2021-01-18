@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 include ':swipeableRecyclerview'
 include ':app'
 rootProject.name = "SwipeableRecyclerViewExamle"
+=======
+include ':recyclerview_swipe'
+include ':app'
+rootProject.name = "RecyclerView-SwipableLayout"
+>>>>>>> b0798da02d937c5e20b3bd907c222817347c0e14

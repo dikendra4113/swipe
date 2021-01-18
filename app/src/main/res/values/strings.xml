@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">SwipeableRecyclerViewExamle</string>
+=======
+    <string name="app_name">RecyclerView-SwipableLayout</string>
+>>>>>>> b0798da02d937c5e20b3bd907c222817347c0e14
 </resources>
