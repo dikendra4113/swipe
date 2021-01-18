@@ -1,0 +1,3 @@
+include ':swipeableRecyclerview'
+include ':app'
+rootProject.name = "SwipeableRecyclerViewExamle"
